@@ -6,7 +6,7 @@ Análise de dados de crédito
 
 A partir do pront de comando executar o comando streamlit run app_pycaret.py e carregar o arquivo csv fornecido como mostra no vídeo
 
-https://youtu.be/-B-C7ITOomQ
+<iframe width="560" height="315" src="https://youtu.be/-B-C7ITOomQ" frameborder="0" allowfullscreen></iframe>
 
 
 ## Autores
